@@ -78,7 +78,7 @@ Based in Karachi, Pakistan, I leverage cloud platforms (**AWS**, **Google Cloud*
 
 - **Bachelor of Commerce (B.Com.)** – University of Karachi (2008)  
 - **MERN Stack Developer** – Saylani Mass IT (SMIT) Training (Certified)  
-- **Full-Stack Web Development (MERN)** – PIAIC (Front-end & Back-end)  
+- **Full-Stack Web Development (MERN)** –  (Front-end & Back-end)  
 - **AI & Agentic AI Developer** – GIAIC (Generative AI Institute)  
 - **Front-End Web Developer** – BanoQabil Karachi (HTML, CSS, JavaScript)
 
